@@ -24,6 +24,7 @@ namespace assign2
 
         private void onLOadForm(object sender, EventArgs e)
         {
+            
             opers.Items.Add("+");
             opers.Items.Add("-");
             opers.Items.Add("*");
@@ -32,6 +33,7 @@ namespace assign2
             btnRes.Click += onSelectOper;
             btnClear.Click += onBtnClearClick;
             btnClose.Click += onBtnCloseClick;
+            this.Text = " زياد ابوراس - الواجب رقم 2";
         }
         private void onBtnCloseClick(object sender, EventArgs e)
         {
