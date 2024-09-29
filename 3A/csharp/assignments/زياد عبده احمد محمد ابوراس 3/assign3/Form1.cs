@@ -21,6 +21,7 @@ namespace assign3
             summ.Click += onBtnClick;
             fact.Click += onBtnClick;
             sqrtt.Click += onBtnClick;
+            this.Text = " زياد ابوراس - الواجب رقم 3";
         }
         private void onBtnClick(object sender, EventArgs e)
         {
