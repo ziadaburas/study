@@ -1,0 +1,9 @@
+C:\Users\zzeid\Desktop\IT_ziad\3A\csharp\lect5\lect5\bin\Debug\lect5.exe.config
+C:\Users\zzeid\Desktop\IT_ziad\3A\csharp\lect5\lect5\bin\Debug\lect5.exe
+C:\Users\zzeid\Desktop\IT_ziad\3A\csharp\lect5\lect5\bin\Debug\lect5.pdb
+C:\Users\zzeid\Desktop\IT_ziad\3A\csharp\lect5\lect5\obj\Debug\lect5.csprojResolveAssemblyReference.cache
+C:\Users\zzeid\Desktop\IT_ziad\3A\csharp\lect5\lect5\obj\Debug\lect5.Form1.resources
+C:\Users\zzeid\Desktop\IT_ziad\3A\csharp\lect5\lect5\obj\Debug\lect5.Properties.Resources.resources
+C:\Users\zzeid\Desktop\IT_ziad\3A\csharp\lect5\lect5\obj\Debug\lect5.csproj.GenerateResource.Cache
+C:\Users\zzeid\Desktop\IT_ziad\3A\csharp\lect5\lect5\obj\Debug\lect5.exe
+C:\Users\zzeid\Desktop\IT_ziad\3A\csharp\lect5\lect5\obj\Debug\lect5.pdb
