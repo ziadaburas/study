@@ -1,0 +1,9 @@
+C:\Users\zzeid\Desktop\IT_ziad\3A\csharp\assign3\assign3\bin\Debug\assign3.exe.config
+C:\Users\zzeid\Desktop\IT_ziad\3A\csharp\assign3\assign3\bin\Debug\assign3.exe
+C:\Users\zzeid\Desktop\IT_ziad\3A\csharp\assign3\assign3\bin\Debug\assign3.pdb
+C:\Users\zzeid\Desktop\IT_ziad\3A\csharp\assign3\assign3\obj\Debug\assign3.csprojResolveAssemblyReference.cache
+C:\Users\zzeid\Desktop\IT_ziad\3A\csharp\assign3\assign3\obj\Debug\assign3.Form1.resources
+C:\Users\zzeid\Desktop\IT_ziad\3A\csharp\assign3\assign3\obj\Debug\assign3.Properties.Resources.resources
+C:\Users\zzeid\Desktop\IT_ziad\3A\csharp\assign3\assign3\obj\Debug\assign3.csproj.GenerateResource.Cache
+C:\Users\zzeid\Desktop\IT_ziad\3A\csharp\assign3\assign3\obj\Debug\assign3.exe
+C:\Users\zzeid\Desktop\IT_ziad\3A\csharp\assign3\assign3\obj\Debug\assign3.pdb

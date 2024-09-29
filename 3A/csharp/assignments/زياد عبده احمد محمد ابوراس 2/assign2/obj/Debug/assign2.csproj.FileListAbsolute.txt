@@ -1,0 +1,9 @@
+C:\Users\zzeid\Desktop\IT_ziad\3A\csharp\assign2\assign2\bin\Debug\assign2.exe.config
+C:\Users\zzeid\Desktop\IT_ziad\3A\csharp\assign2\assign2\bin\Debug\assign2.exe
+C:\Users\zzeid\Desktop\IT_ziad\3A\csharp\assign2\assign2\bin\Debug\assign2.pdb
+C:\Users\zzeid\Desktop\IT_ziad\3A\csharp\assign2\assign2\obj\Debug\assign2.csprojResolveAssemblyReference.cache
+C:\Users\zzeid\Desktop\IT_ziad\3A\csharp\assign2\assign2\obj\Debug\assign2.Form1.resources
+C:\Users\zzeid\Desktop\IT_ziad\3A\csharp\assign2\assign2\obj\Debug\assign2.Properties.Resources.resources
+C:\Users\zzeid\Desktop\IT_ziad\3A\csharp\assign2\assign2\obj\Debug\assign2.csproj.GenerateResource.Cache
+C:\Users\zzeid\Desktop\IT_ziad\3A\csharp\assign2\assign2\obj\Debug\assign2.exe
+C:\Users\zzeid\Desktop\IT_ziad\3A\csharp\assign2\assign2\obj\Debug\assign2.pdb
