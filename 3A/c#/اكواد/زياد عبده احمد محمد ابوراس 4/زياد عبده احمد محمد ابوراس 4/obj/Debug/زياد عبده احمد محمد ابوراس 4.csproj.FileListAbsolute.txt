@@ -1,0 +1,16 @@
+/storage/self/primary/جامعة/3A/برمجة مرئية/زياد عبده احمد محمد ابوراس 4/زياد عبده احمد محمد ابوراس 4/bin/Debug/زياد عبده احمد محمد ابوراس 4.exe
+/storage/self/primary/جامعة/3A/برمجة مرئية/زياد عبده احمد محمد ابوراس 4/زياد عبده احمد محمد ابوراس 4/bin/Debug/زياد عبده احمد محمد ابوراس 4.pdb
+/storage/self/primary/جامعة/3A/برمجة مرئية/زياد عبده احمد محمد ابوراس 4/زياد عبده احمد محمد ابوراس 4/obj/Debug/زياد عبده احمد محمد ابوراس 4.csproj.AssemblyReference.cache
+/storage/self/primary/جامعة/3A/برمجة مرئية/زياد عبده احمد محمد ابوراس 4/زياد عبده احمد محمد ابوراس 4/obj/Debug/زياد_عبده_احمد_محمد_ابوراس_4.Resources.resources
+/storage/self/primary/جامعة/3A/برمجة مرئية/زياد عبده احمد محمد ابوراس 4/زياد عبده احمد محمد ابوراس 4/obj/Debug/زياد عبده احمد محمد ابوراس 4.csproj.GenerateResource.cache
+/storage/self/primary/جامعة/3A/برمجة مرئية/زياد عبده احمد محمد ابوراس 4/زياد عبده احمد محمد ابوراس 4/obj/Debug/زياد عبده احمد محمد ابوراس 4.csproj.CoreCompileInputs.cache
+/storage/self/primary/جامعة/3A/برمجة مرئية/زياد عبده احمد محمد ابوراس 4/زياد عبده احمد محمد ابوراس 4/obj/Debug/زياد عبده احمد محمد ابوراس 4.exe
+/storage/self/primary/جامعة/3A/برمجة مرئية/زياد عبده احمد محمد ابوراس 4/زياد عبده احمد محمد ابوراس 4/obj/Debug/زياد عبده احمد محمد ابوراس 4.pdb
+/home/ziad/Projects/زياد عبده احمد محمد ابوراس 4/زياد عبده احمد محمد ابوراس 4/bin/Debug/زياد عبده احمد محمد ابوراس 4.exe
+/home/ziad/Projects/زياد عبده احمد محمد ابوراس 4/زياد عبده احمد محمد ابوراس 4/bin/Debug/زياد عبده احمد محمد ابوراس 4.pdb
+/home/ziad/Projects/زياد عبده احمد محمد ابوراس 4/زياد عبده احمد محمد ابوراس 4/obj/Debug/زياد عبده احمد محمد ابوراس 4.csproj.AssemblyReference.cache
+/home/ziad/Projects/زياد عبده احمد محمد ابوراس 4/زياد عبده احمد محمد ابوراس 4/obj/Debug/زياد_عبده_احمد_محمد_ابوراس_4.Properties.Resources.resources
+/home/ziad/Projects/زياد عبده احمد محمد ابوراس 4/زياد عبده احمد محمد ابوراس 4/obj/Debug/زياد عبده احمد محمد ابوراس 4.csproj.GenerateResource.cache
+/home/ziad/Projects/زياد عبده احمد محمد ابوراس 4/زياد عبده احمد محمد ابوراس 4/obj/Debug/زياد عبده احمد محمد ابوراس 4.csproj.CoreCompileInputs.cache
+/home/ziad/Projects/زياد عبده احمد محمد ابوراس 4/زياد عبده احمد محمد ابوراس 4/obj/Debug/زياد عبده احمد محمد ابوراس 4.exe
+/home/ziad/Projects/زياد عبده احمد محمد ابوراس 4/زياد عبده احمد محمد ابوراس 4/obj/Debug/زياد عبده احمد محمد ابوراس 4.pdb
