@@ -1,0 +1,8 @@
+C:\Users\ziad\Documents\Visual Studio 2008\Projects\زياد عبده احمد محمد ابوراس\زياد عبده احمد محمد ابوراس\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ziad\Documents\Visual Studio 2008\Projects\زياد عبده احمد محمد ابوراس\زياد عبده احمد محمد ابوراس\obj\Debug\زياد_عبده_احمد_محمد_ابوراس.Form1.resources
+C:\Users\ziad\Documents\Visual Studio 2008\Projects\زياد عبده احمد محمد ابوراس\زياد عبده احمد محمد ابوراس\obj\Debug\زياد_عبده_احمد_محمد_ابوراس.Properties.Resources.resources
+C:\Users\ziad\Documents\Visual Studio 2008\Projects\زياد عبده احمد محمد ابوراس\زياد عبده احمد محمد ابوراس\obj\Debug\زياد عبده احمد محمد ابوراس.csproj.GenerateResource.Cache
+C:\Users\ziad\Documents\Visual Studio 2008\Projects\زياد عبده احمد محمد ابوراس\زياد عبده احمد محمد ابوراس\bin\Debug\زياد عبده احمد محمد ابوراس.exe
+C:\Users\ziad\Documents\Visual Studio 2008\Projects\زياد عبده احمد محمد ابوراس\زياد عبده احمد محمد ابوراس\bin\Debug\زياد عبده احمد محمد ابوراس.pdb
+C:\Users\ziad\Documents\Visual Studio 2008\Projects\زياد عبده احمد محمد ابوراس\زياد عبده احمد محمد ابوراس\obj\Debug\زياد عبده احمد محمد ابوراس.exe
+C:\Users\ziad\Documents\Visual Studio 2008\Projects\زياد عبده احمد محمد ابوراس\زياد عبده احمد محمد ابوراس\obj\Debug\زياد عبده احمد محمد ابوراس.pdb
