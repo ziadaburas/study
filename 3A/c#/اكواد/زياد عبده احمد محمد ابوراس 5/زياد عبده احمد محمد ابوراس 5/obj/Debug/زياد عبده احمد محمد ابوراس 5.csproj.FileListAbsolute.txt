@@ -1,0 +1,9 @@
+/home/ziad/Projects/زياد عبده احمد محمد ابوراس 5/زياد عبده احمد محمد ابوراس 5/bin/Debug/زياد عبده احمد محمد ابوراس 5.exe
+/home/ziad/Projects/زياد عبده احمد محمد ابوراس 5/زياد عبده احمد محمد ابوراس 5/bin/Debug/زياد عبده احمد محمد ابوراس 5.pdb
+/home/ziad/Projects/زياد عبده احمد محمد ابوراس 5/زياد عبده احمد محمد ابوراس 5/obj/Debug/زياد عبده احمد محمد ابوراس 5.csproj.AssemblyReference.cache
+/home/ziad/Projects/زياد عبده احمد محمد ابوراس 5/زياد عبده احمد محمد ابوراس 5/obj/Debug/زياد_عبده_احمد_محمد_ابوراس_5.Form1.resources
+/home/ziad/Projects/زياد عبده احمد محمد ابوراس 5/زياد عبده احمد محمد ابوراس 5/obj/Debug/زياد_عبده_احمد_محمد_ابوراس_5.Properties.Resources.resources
+/home/ziad/Projects/زياد عبده احمد محمد ابوراس 5/زياد عبده احمد محمد ابوراس 5/obj/Debug/زياد عبده احمد محمد ابوراس 5.csproj.GenerateResource.cache
+/home/ziad/Projects/زياد عبده احمد محمد ابوراس 5/زياد عبده احمد محمد ابوراس 5/obj/Debug/زياد عبده احمد محمد ابوراس 5.csproj.CoreCompileInputs.cache
+/home/ziad/Projects/زياد عبده احمد محمد ابوراس 5/زياد عبده احمد محمد ابوراس 5/obj/Debug/زياد عبده احمد محمد ابوراس 5.exe
+/home/ziad/Projects/زياد عبده احمد محمد ابوراس 5/زياد عبده احمد محمد ابوراس 5/obj/Debug/زياد عبده احمد محمد ابوراس 5.pdb
