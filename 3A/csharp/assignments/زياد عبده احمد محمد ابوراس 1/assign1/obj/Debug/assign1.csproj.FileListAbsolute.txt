@@ -1,9 +1,0 @@
-C:\Users\zzeid\Desktop\cppProjects\oopLap\assign1\assign1\bin\Debug\assign1.exe.config
-C:\Users\zzeid\Desktop\cppProjects\oopLap\assign1\assign1\obj\Debug\assign1.csprojResolveAssemblyReference.cache
-C:\Users\zzeid\Desktop\cppProjects\oopLap\assign1\assign1\obj\Debug\assign1.Form1.resources
-C:\Users\zzeid\Desktop\cppProjects\oopLap\assign1\assign1\obj\Debug\assign1.Properties.Resources.resources
-C:\Users\zzeid\Desktop\cppProjects\oopLap\assign1\assign1\obj\Debug\assign1.csproj.GenerateResource.Cache
-C:\Users\zzeid\Desktop\cppProjects\oopLap\assign1\assign1\bin\Debug\assign1.exe
-C:\Users\zzeid\Desktop\cppProjects\oopLap\assign1\assign1\bin\Debug\assign1.pdb
-C:\Users\zzeid\Desktop\cppProjects\oopLap\assign1\assign1\obj\Debug\assign1.exe
-C:\Users\zzeid\Desktop\cppProjects\oopLap\assign1\assign1\obj\Debug\assign1.pdb
