@@ -1,0 +1,13 @@
+C:\Users\zzeid\Desktop\IT_ziad\3A\csharp\زياد عبده احمد محمد ابوراس 6\زياد عبده احمد محمد ابوراس 6\bin\Debug\زياد عبده احمد محمد ابوراس 6.exe.config
+C:\Users\zzeid\Desktop\IT_ziad\3A\csharp\زياد عبده احمد محمد ابوراس 6\زياد عبده احمد محمد ابوراس 6\bin\Debug\زياد عبده احمد محمد ابوراس 6.exe
+C:\Users\zzeid\Desktop\IT_ziad\3A\csharp\زياد عبده احمد محمد ابوراس 6\زياد عبده احمد محمد ابوراس 6\bin\Debug\زياد عبده احمد محمد ابوراس 6.pdb
+C:\Users\zzeid\Desktop\IT_ziad\3A\csharp\زياد عبده احمد محمد ابوراس 6\زياد عبده احمد محمد ابوراس 6\obj\Debug\زياد عبده احمد محمد ابوراس 6.csprojResolveAssemblyReference.cache
+C:\Users\zzeid\Desktop\IT_ziad\3A\csharp\زياد عبده احمد محمد ابوراس 6\زياد عبده احمد محمد ابوراس 6\obj\Debug\زياد_عبده_احمد_محمد_ابوراس_6.Form1.resources
+C:\Users\zzeid\Desktop\IT_ziad\3A\csharp\زياد عبده احمد محمد ابوراس 6\زياد عبده احمد محمد ابوراس 6\obj\Debug\زياد_عبده_احمد_محمد_ابوراس_6.Properties.Resources.resources
+C:\Users\zzeid\Desktop\IT_ziad\3A\csharp\زياد عبده احمد محمد ابوراس 6\زياد عبده احمد محمد ابوراس 6\obj\Debug\زياد عبده احمد محمد ابوراس 6.csproj.GenerateResource.Cache
+C:\Users\zzeid\Desktop\IT_ziad\3A\csharp\زياد عبده احمد محمد ابوراس 6\زياد عبده احمد محمد ابوراس 6\obj\Debug\زياد عبده احمد محمد ابوراس 6.exe
+C:\Users\zzeid\Desktop\IT_ziad\3A\csharp\زياد عبده احمد محمد ابوراس 6\زياد عبده احمد محمد ابوراس 6\obj\Debug\زياد عبده احمد محمد ابوراس 6.pdb
+C:\Users\zzeid\Desktop\IT_ziad\3A\csharp\زياد عبده احمد محمد ابوراس 6\زياد عبده احمد محمد ابوراس 6\obj\Debug\زياد_عبده_احمد_محمد_ابوراس_6.Form2.resources
+C:\Users\zzeid\Desktop\IT_ziad\3A\csharp\زياد عبده احمد محمد ابوراس 6\زياد عبده احمد محمد ابوراس 6\obj\Debug\زياد_عبده_احمد_محمد_ابوراس_6.Form3.resources
+C:\Users\zzeid\Desktop\IT_ziad\3A\csharp\زياد عبده احمد محمد ابوراس 6\زياد عبده احمد محمد ابوراس 6\obj\Debug\زياد_عبده_احمد_محمد_ابوراس_6.Form4.resources
+C:\Users\zzeid\Desktop\IT_ziad\3A\csharp\زياد عبده احمد محمد ابوراس 6\زياد عبده احمد محمد ابوراس 6\obj\Debug\زياد_عبده_احمد_محمد_ابوراس_6.Form5.resources
