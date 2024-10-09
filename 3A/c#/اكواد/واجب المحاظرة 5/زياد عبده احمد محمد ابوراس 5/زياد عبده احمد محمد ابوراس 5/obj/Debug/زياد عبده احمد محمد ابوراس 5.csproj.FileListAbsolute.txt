@@ -1,0 +1,8 @@
+c:\users\zaid aburas\documents\visual studio 2015\Projects\زياد عبده احمد محمد ابوراس 5\زياد عبده احمد محمد ابوراس 5\bin\Debug\زياد عبده احمد محمد ابوراس 5.exe.config
+c:\users\zaid aburas\documents\visual studio 2015\Projects\زياد عبده احمد محمد ابوراس 5\زياد عبده احمد محمد ابوراس 5\obj\Debug\زياد عبده احمد محمد ابوراس 5.csprojResolveAssemblyReference.cache
+c:\users\zaid aburas\documents\visual studio 2015\Projects\زياد عبده احمد محمد ابوراس 5\زياد عبده احمد محمد ابوراس 5\obj\Debug\زياد_عبده_احمد_محمد_ابوراس_5.Properties.Resources.resources
+c:\users\zaid aburas\documents\visual studio 2015\Projects\زياد عبده احمد محمد ابوراس 5\زياد عبده احمد محمد ابوراس 5\obj\Debug\زياد عبده احمد محمد ابوراس 5.csproj.GenerateResource.Cache
+c:\users\zaid aburas\documents\visual studio 2015\Projects\زياد عبده احمد محمد ابوراس 5\زياد عبده احمد محمد ابوراس 5\bin\Debug\زياد عبده احمد محمد ابوراس 5.exe
+c:\users\zaid aburas\documents\visual studio 2015\Projects\زياد عبده احمد محمد ابوراس 5\زياد عبده احمد محمد ابوراس 5\bin\Debug\زياد عبده احمد محمد ابوراس 5.pdb
+c:\users\zaid aburas\documents\visual studio 2015\Projects\زياد عبده احمد محمد ابوراس 5\زياد عبده احمد محمد ابوراس 5\obj\Debug\زياد عبده احمد محمد ابوراس 5.exe
+c:\users\zaid aburas\documents\visual studio 2015\Projects\زياد عبده احمد محمد ابوراس 5\زياد عبده احمد محمد ابوراس 5\obj\Debug\زياد عبده احمد محمد ابوراس 5.pdb
