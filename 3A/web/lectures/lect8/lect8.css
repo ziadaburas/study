@@ -1,0 +1,55 @@
+﻿body{
+    direction: rtl;
+}
+main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 40px;
+   
+}
+
+.myAnims {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+}
+
+.box {
+    width: 100px;
+    height: 100px;
+    background-color: #4caf50;
+    border-radius: 10px;
+}
+
+
+.scale {
+    animation: scaleUp 2s ease-in-out 5;
+}
+
+@keyframes scaleUp {
+    0%, 100% { transform: scale(1); }
+    50% { transform: scale(1.5); }
+}
+
+.rotate {
+    animation: rotate 4s linear 5;
+}
+
+@keyframes rotate {
+    from { transform: rotate(0deg); }
+    to { transform: rotate(360deg); }
+}
+
+
+.color-change {
+    animation: colorChange 3s ease-in-out 5;
+}
+
+@keyframes colorChange {
+    0% { background-color: #4caf50; }
+    50% { background-color: #ff5722; }
+    100% { background-color: #4caf50; }
+}

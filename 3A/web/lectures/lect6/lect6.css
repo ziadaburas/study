@@ -1,0 +1,23 @@
+﻿body{
+    direction: rtl;
+    line-height: 5em;
+}
+.fixedDiv{
+    position: fixed;
+    top: 0;
+    left: 25%;
+    width: 50%;
+    background-color: beige;
+    text-align: center;
+}
+.htmlImg{
+    position: sticky;
+    top: 0;
+}
+li::after{
+    content: "$$$";
+}
+.myList:hover{
+    position: absolute;
+    color: red;
+}

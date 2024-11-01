@@ -1,0 +1,33 @@
+﻿body{
+    direction: rtl;
+    font-size: large;
+    line-height: 2.5em;
+}
+.htmlImg{
+    float: right;
+}
+.myFont{
+    width:70%;
+    float: left;
+}
+.imgTitle{
+    clear: both;
+    text-decoration: underline;
+    margin: 10px 40px;
+}
+.item1{
+    text-indent: 20px;
+    /* white-space: nowrap; */
+}
+.item2{
+    letter-spacing: 10px;
+}
+.item3{
+    word-spacing: 15px;
+}
+.item4{
+    font-family: 'Courier New', Courier, monospace;
+}
+.item5{
+    font-weight: 500;
+}

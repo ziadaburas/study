@@ -1,0 +1,47 @@
+﻿body {
+    direction: rtl;
+}
+
+.myFlex {
+    display: flex;
+    /* flex-wrap: wrap; */
+    gap: 20px;
+    justify-content: space-evenly;
+    /* justify-items: flex-start; */
+    padding: 20px;
+    border: 2px solid #ddd;
+    margin-bottom: 30px;
+    background-color: #f9f9f9;
+}
+
+.box {
+    background-color: #4caf50;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    width: 30px;
+    /* flex: 1 1 150px; */
+}
+.box1{
+    background-color: blue;
+    
+}
+.box2{
+    background-color: red;
+    flex: 1;
+}
+.box3{
+    background-color: orange;
+    
+}
+.box4{
+    background-color: yellow;
+    flex: 1;
+}
+.box5{
+    background-color: green;
+}
+.box6{
+    background-color: gray;
+    
+}
