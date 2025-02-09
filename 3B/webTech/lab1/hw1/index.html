@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title></title>
+</head>
+
+<body dir="rtl">
+  
+  <div>
+    <label for="from1">from1</label>
+    <br />
+    <input type="number" name="from1" id="from1" />
+    <button onclick="convert()">Convert1</button>
+    <span id="sp1">From1</span>
+  </div>
+  
+  <div>
+    <label for="from2">from2</label>
+    <br />
+    <input type="number" name="from1" id="from2" oninput="convert2(this.value)"/>
+    
+    <span id="sp2"></span>
+  </div>
+  
+  <div>
+    <label for="from3">from3</label>
+    <br />
+    <input type="number" name="from3" id="from3" />
+    <select onchange="convert3(this.value)">
+      <option value="600">دولار</option>
+      <option value="140">سعودي</option>
+      <option value="80">جنية</option>
+    </select>
+    <span id="sp3"></span>
+  </div>
+
+<script src="convertMoney.js" type="text/javascript" charset="utf-8"></script>
+</body>
+
+</html>
